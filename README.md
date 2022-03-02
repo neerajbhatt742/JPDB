@@ -1,5 +1,6 @@
 # Student portal
 * Its a student portal where you can login yourself and register yourself.
+* Here JPDB is used for database.
 
 # JPDB
 * JsonPowerDB is a Database Server with Developer friendly REST API services.
